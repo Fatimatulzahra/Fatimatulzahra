@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Java in College.
 - 👯I'm looking to collaborate on a project for frontend development.
 - 🤔 I'm looking for help with javascript.
-- 📫 How to reach me: LinkedIn:www.linkedin.com/in/fatimah-badmos, Email:zahranike04@gmail.com
+- 📫 How to reach me: Email: zahranike04@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
+
