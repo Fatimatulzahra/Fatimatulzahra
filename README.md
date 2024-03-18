@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
 
 <b>My Core Languages</b>
-<img src = "/Assets/python.png" width = 40% height = 40%>
-##![python](/Assets/python.png?raw=true)
+<img src = "/Assets/python.png" width = 40px height = 40px>
