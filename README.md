@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
 
 <b>My Core Languages</b>
-<br>
-<img src = "/Assets/python.png" width = 40px height = 40px>
+<br> <br>
+<img src = "/Assets/python.png" width = 60px height = 50px>
+<img src = "/Assets/html.jpg" width = 60px height = 50px>
