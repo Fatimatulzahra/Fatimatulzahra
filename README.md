@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <b>My Core Languages</b>
 <br> <br>
-<code><img src = "/Assets/python.png" width = 60px height = 50px title = "Python"/></code>
-<code><img src = "/Assets/html.jpg" width = 60px height = 50px/></code>
+<code><img src = "/Assets/python.png" width = 60px height = 50px title = "Python" /></code>
+<code><img src = "/Assets/java.png" width = 60px height = 50px title = "Python" /></code>
 
 <b>Connect with me</b>
 <br> <br>
