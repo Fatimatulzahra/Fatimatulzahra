@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
 
+<b>My Core Languages</b>
+![python](/Assets/python.png?raw=true)
