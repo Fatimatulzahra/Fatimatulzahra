@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
 
 <b>My Core Languages</b>
-<br>
+<br><br>
 <code><img src = "/Assets/python.png" width = 60px height = 50px title = "Python" /></code>
 <code><img src = "/Assets/java.png" width = 60px height = 50px title = "Java" /></code>
 
 <b>Connect with me</b>
-<br>
+<br><br>
 <a href = "www.linkedin.com/in/fatimah-badmos"><img src = "/Assets/linkedin.png" width = 50px height = 50px/></a>
 
 <b>Frameworks I use</b>
-<br>
+<br><br>
 <code><img src = "/Assets/html.jpg" width = 50px height = 50px title = "HTML" /></code>
 <code><img src = "/Assets/css.jpg" width = 50px height = 50px title = "CSS" /></code>
