@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - ✨ Welcome to Fatimah's 🧕 Profile
 - 🔭 I'm currently working on a personal project to improve my knowledge in Python.
-- 🌱 I'm currently learning Java in College.
+- 🌱 I'm currently learning Java/DSA in College.
 - 👯I'm looking to collaborate on a project for frontend development.
 - 🤔 I'm looking for help with javascript.
 - 📫 How to reach me: Email: zahranike04@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am not sure if it is really a fun fact, but I love watching anime.
+- ⚡ Fun fact: Uhh, I love watching animeeeeee.
 
 <b>My Core Languages</b>
 <br><br>
