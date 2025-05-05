@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - ✨ Welcome to Fatimah's 🧕 Profile
 - 🔭 I'm currently working on a personal project to improve my knowledge in Python.
-- 🌱 I'm currently learning DSA.
+- 🌱 I'm currently learning DSA and ReactJS
 - 👯I'm looking to collaborate on a project for frontend development.
 - 🤔 I'm looking for help with javascript.
 - 📫 How to reach me: Email: zahranike04@gmail.com
