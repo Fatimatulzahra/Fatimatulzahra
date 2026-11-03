@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ Welcome to Fatimah's 🧕 Profile
-- 🔭 I'm currently working on a personal project to improve my knowledge in Python.
-- 🌱 I'm currently learning DSA and ReactJS
-- 👯I'm looking to collaborate on a project for frontend development.
-- 🤔 I'm looking for help with javascript.
+- ✨ Welcome to Fatimah's Profile
+- 🔭 I'm currently working on a personal project to improve my hardware engineering skills.
+- 🌱 I'm currently learning C++
 - 📫 How to reach me: Email: zahranike04@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Uhh, I love watching animeeeeee.
