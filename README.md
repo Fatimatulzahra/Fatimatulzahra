@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - ✨ Welcome to Fatimah's Profile
 - 🔭 I'm currently working on a personal project to improve my hardware engineering skills.
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently learning C
 - 📫 How to reach me: Email: zahranike04@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Uhh, I love watching animeeeeee.
